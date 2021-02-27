@@ -1,0 +1,218 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 1065px;
+  }
+  
+  .u-section-1 .u-shape-1 {
+    width: 496px;
+    height: 452px;
+    margin: 67px auto 0 322px;
+  }
+  
+  .u-section-1 .u-image-1 {
+    width: 214px;
+    height: 214px;
+    background-image: url("/assets/Master-of-Business-Psychology-800_x_864.jpg");
+    background-position: 50% 50%;
+    margin: -449px auto 0 641px;
+  }
+  
+  .u-section-1 .u-image-2 {
+    width: 412px;
+    height: 412px;
+    background-image: url("/assets/hftgyjyt.jpg");
+    background-position: 50% 50%;
+    margin: -159px auto 0 285px;
+  }
+  
+  .u-section-1 .u-group-1 {
+    width: 934px;
+    min-height: 583px;
+    height: auto;
+    margin: -55px auto 0;
+  }
+  
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+  
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+    background-image: none;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
+    margin: 0;
+  }
+  
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin: 20px 0 0;
+  }
+  
+  .u-section-1 .u-text-3 {
+    line-height: 1.8;
+    width: 453px;
+    margin: 32px auto 0;
+  }
+  
+  .u-section-1 .u-btn-1 {
+    background-image: none;
+    border-style: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 35px auto 0;
+  }
+  
+  @media (max-width: 1199px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 1194px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      width: 471px;
+      height: 455px;
+      margin-top: 44px;
+      margin-left: 261px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      margin-top: -424px;
+      margin-left: 537px;
+    }
+  
+    .u-section-1 .u-image-2 {
+      width: 423px;
+      height: 423px;
+      margin-top: -146px;
+      margin-left: 189px;
+    }
+  
+    .u-section-1 .u-group-1 {
+      margin-top: -47px;
+      margin-right: 0;
+      margin-bottom: 60px;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 1087px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      margin-top: 72px;
+      margin-left: 138px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 244px;
+      height: 244px;
+      margin-top: -463px;
+      margin-left: 402px;
+    }
+  
+    .u-section-1 .u-image-2 {
+      width: 401px;
+      height: 401px;
+      margin-top: -141px;
+      margin-left: 74px;
+    }
+  
+    .u-section-1 .u-group-1 {
+      min-height: 519px;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-right: initial;
+      margin-left: initial;
+      width: auto;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 5rem;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 990px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      height: 342px;
+      width: 354px;
+      margin-top: 90px;
+      margin-left: 122px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 200px;
+      height: 200px;
+      margin-top: -354px;
+      margin-left: 291px;
+    }
+  
+    .u-section-1 .u-image-2 {
+      width: 306px;
+      height: 306px;
+      margin-top: -113px;
+      margin-left: 49px;
+    }
+  
+    .u-section-1 .u-container-layout-1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 3.75rem;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 792px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      height: 205px;
+      width: 204px;
+      margin-top: 76px;
+      margin-left: 94px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 119px;
+      height: 119px;
+      margin-top: -217px;
+      margin-left: 196px;
+    }
+  
+    .u-section-1 .u-image-2 {
+      width: 210px;
+      height: 210px;
+      margin-top: -70px;
+      margin-left: 26px;
+    }
+  
+    .u-section-1 .u-group-1 {
+      min-height: 469px;
+      width: auto;
+      margin-right: initial;
+      margin-left: initial;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 2.25rem;
+    }
+  
+    .u-section-1 .u-text-2 {
+      font-size: 1.125rem;
+    }
+  
+    .u-section-1 .u-text-3 {
+      width: 320px;
+    }
+  }
